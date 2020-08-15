@@ -1,0 +1,6 @@
+C:\Users\Mihir\Downloads\Console_WebAPI\WebAPI_Console_Client\obj\Debug\FiboAPI_ConsoleClient.csprojAssemblyReference.cache
+C:\Users\Mihir\Downloads\Console_WebAPI\WebAPI_Console_Client\bin\Debug\FiboAPI_ConsoleClient.exe.config
+C:\Users\Mihir\Downloads\Console_WebAPI\WebAPI_Console_Client\bin\Debug\FiboAPI_ConsoleClient.exe
+C:\Users\Mihir\Downloads\Console_WebAPI\WebAPI_Console_Client\bin\Debug\FiboAPI_ConsoleClient.pdb
+C:\Users\Mihir\Downloads\Console_WebAPI\WebAPI_Console_Client\obj\Debug\FiboAPI_ConsoleClient.exe
+C:\Users\Mihir\Downloads\Console_WebAPI\WebAPI_Console_Client\obj\Debug\FiboAPI_ConsoleClient.pdb
